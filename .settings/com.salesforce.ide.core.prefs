@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+endpointApiVersion=34.0
+endpointEnvironment=Production/Developer Edition
+endpointServer=www.salesforce.com
+httpsProtocol=true
+ideVersion=34.0
+keependpoint=false
+metadataFormatVersion=34.0
+namespacePrefix=
+packageName=unpackaged
+preferToolingDeployment=true
+projectIdentifier=IDE5218636855717743213
+readTimeout=400
+username=shermal@sfdev.com
